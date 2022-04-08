@@ -1,0 +1,1 @@
+train.py --data strawberry.yaml --cfg yolov5s.yaml --weights yolov5s.pt --batch-size 16 --cache
